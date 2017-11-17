@@ -10,7 +10,7 @@ export default () =>
    		<div>
    			<Link to="/page-2/">Duece</Link>
    		</div>
-   		//<div>
-   			//<Link to="/counter/">counter</Link>
-   		//</div>
+   		<div>
+   			<Link to="/counter/">counter</Link>
+   		</div>
 	</div>
